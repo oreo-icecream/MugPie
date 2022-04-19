@@ -1,2 +1,2 @@
 # MugPie
-A website ig
+It's just a fun little project I'm doing
